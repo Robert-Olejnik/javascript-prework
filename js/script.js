@@ -47,7 +47,7 @@ const playGame = function (playerInput) {
 		playerMove = 'nożyce';
 	}
 	*/
-	printMessage('Twój ruch to: ' + computerMove);
+	printMessage('Twój ruch to: ' + playerMove);
 
 
 	const displayResult = function (ComputerMove, PlayerMove) {
